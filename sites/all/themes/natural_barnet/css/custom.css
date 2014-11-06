@@ -1,0 +1,1148 @@
+/* Images */
+
+img[style*="left"]  {margin:0 20px 20px 0;}
+img[style*="right"] {margin:0 0 20px 20px; }
+
+img {
+	max-width:100%;
+	max-height:100%;
+}
+
+.node-type-hair-views .zone-content img {
+	border:5px double #DBDBDB;
+}
+
+.node-type-hair-care-article .zone-content img {
+	border:5px double #DBDBDB;
+}
+
+.node-type-hair-knowledge-article .zone-content img {
+	border:5px double #DBDBDB;
+}
+
+
+/* End of images */
+
+
+
+/* Layout themeing */
+
+#zone-menu-wrapper {
+	background-image:url("/sites/all/themes/natural_barnet/images/border2.png");
+	color:#000;
+	height:134px;
+	border-bottom:0px solid #006B3F;
+	margin-top:-30px;
+	z-index:100;
+}
+
+
+/***Unwanted header in product category term view***/
+
+.view-collection-products .view-header {
+	display:none;
+}
+
+
+#nice-menu-1 {
+	
+	background:rgba(255,255,255,0.9);
+	margin-top:30px;
+	border-radius:8px;
+	border:4px solid #000;
+	padding:4px 0;
+	width:100%;
+	text-align:center;
+	z-index:999;	
+}
+
+#nice-menu-1 li {
+	padding:0 5px;
+	border:none;	
+	font-size: 22px;	
+		
+}
+
+#nice-menu-1 li:hover {
+	color:#777E73;
+	cursor: pointer;	
+}
+
+#nice-menu-1 a:hover {
+	color:#777E73;
+}
+
+#nice-menu-1 .menu-path-nolink {
+	color: #000;
+	margin-top:7px;
+	
+}
+
+#nice-menu-1 a {
+	color:#000;
+}
+
+#block-views-shopping-cart-block {
+	height:34px;
+}
+
+#logo {
+	margin-bottom:-40px;
+	margin-top:-10px;
+	
+}
+
+#zone-footer a:visited {
+	color:#D8D8D8
+}
+
+#zone-footer-wrapper {
+	background-color: #1E1849;
+	color:#fff;
+}
+
+/* End Layout themeing */
+
+
+
+/* General themeing */
+
+body {
+	color:#606060;
+}
+
+p {
+	text-align: justify;
+}
+
+/* End General themeing */
+
+
+
+/* Header */
+
+.site-slogan {
+	font-size:4em;
+	margin-top:90px;
+	margin-left:80px;
+}
+
+/* End of Header */
+
+
+
+/* Slideshow */
+
+.view-id-slider .field-name-field-text-on-image {
+	width:400px;
+	color:#fff;
+	font-size:3em;
+	position:absolute;
+	top:150px;
+	left:20px;
+	background-color:rgba(0,0,0,0.4);
+	border-radius:10px;
+	padding:10px;
+}
+
+/* End of slideshow */
+
+
+
+/* Hair journey main page url is hair-journey */
+
+.view-hair-journey-interviewee-links-view .field-name-field-interviewee {
+	color:#fff;
+	text-align:center;
+	font-size:2.5em;
+	position:absolute;
+	top:100px;
+	left:0;
+	background-color: rgba(0, 0, 0, 0.5);
+	padding-left:5px;
+	padding-right: 2px;	
+}
+
+/* End of hair journey main page */
+
+
+
+/* Hair journey interviews */
+
+.field-name-field-hair-journey-image img {
+	border: 5px solid #828282;
+	margin-bottom:5px;
+}
+
+/* End hair journey interviews */
+
+
+
+/* Hair info categories */
+
+.view-hair-info-categories .views-field-name {
+	position:relative;
+	top:12px;
+	padding-left:20px;
+	background-color: rgba(0, 0, 0, 0.6);
+}
+
+.view-hair-info-categories .views-field-name a {
+	color:#fff;
+	font-size:2em;
+}
+
+.view-hair-info-categories {
+	position:relative;
+	top:-10px;	
+}
+
+.field-name-field-hair-info-taxonomy-image {
+	margin-top:-30px;
+}
+
+/*End hair info categories */
+
+
+
+/* Hair care */
+
+.view-hair-care .views-field-title {
+	width:320px;
+	margin:0 auto;
+	text-align:center;	
+}
+
+.field-name-field-image-for-article {
+	float: right;
+	margin: 0 0 10px 20px;
+}
+
+
+/* End Hair care */
+	
+
+
+
+/* Taxonomy fields */
+
+.field-name-title-field {
+	font-size:1.4em;
+}
+
+.node-hair-care-content {
+	margin-bottom:10px;
+	background-color:#E0E0E0;
+	padding:5px;
+}
+
+/* End of taxonomy fields */
+
+
+
+/* Individual product */
+
+.commerce-product-field-field-how-to-use-this-product {
+	border:7px dashed #F4D229;
+	text-align:justify;
+	padding:10px;
+}
+
+.field-label {
+	font-size:1.2em;
+}
+
+/* End of Individual product */
+
+
+/* Side bar first */
+
+
+.view-article-categories h2 {
+	font-size:1.2em;
+}
+
+.view-article-categories .views-row {
+	
+	line-height: 1em;
+}
+
+#block-views-article-categories-block .block-title {
+	margin-bottom:10px;
+	}
+	
+.view-product-categories h2 {
+	font-size:1.2em;
+}
+
+.view-hair-care-categories-view h2 {
+	font-size:1.2em;
+}
+
+.view-hair-style-categories-view h2 {
+	font-size:1.2em;
+}
+
+.view-hair-views-categories-view h2 {
+	font-size:1.2em;
+}
+
+.view-hair-knowledge-categories-view h2 {
+	font-size:1.2em;
+}
+
+.view-product-categories .views-row {
+	
+	line-height: 1em;
+}
+
+#block-views-product-categories-block .block-title {
+	margin-bottom:10px;
+	}	
+
+/* Finish sidebar first */ 
+
+
+
+/* Checkout */
+
+.commerce-extra-panes-checkout-form .comment-comments  {
+	display:none;
+}
+
+#node-page-49 {
+	margin-left:0;
+}
+
+/* End checkout */
+
+
+
+/* Sidebar */
+
+
+#block-views-article-categories-block {
+	border-right: 1.5px solid #D7D7D7;
+}
+
+#block-views-product-categories-block {
+	border-right: 1.5px solid #D7D7D7;
+}
+
+/* End Sidebar */
+
+
+
+/* General tidying up */
+
+.commerce-product-field-commerce-price {
+	margin-top:20px;
+}
+
+#breadcrumb {
+	margin-top:-10px;
+	margin-bottom:-10px;
+}
+
+/*.articles-interested-block {
+	width:460px;
+	float:left;
+	margin-right:5px;
+}
+
+.articles-interested-block .block-title {
+	background-color:#7ECDAD;
+	color:#fff;
+	padding-left:10px;
+	margin-left:10px;
+	width:460px;
+	
+}
+
+.products-interested-block {
+	width:460px;
+	float:right;
+	margin-left:5px;
+}
+
+.products-interested-block .block-title {
+	background-color:#7ECDAD;
+	color:#fff;
+	padding-left:10px;
+	margin-left:10px;
+	width:460px;
+}*/
+
+.view-hair-style td {
+	width:25%;
+	border:2px dashed #D7D7D7;
+}
+
+.smart-paging-pager li {
+	float:left;
+	display:block;
+}
+
+.smart-paging-pager a {
+	color:#fff;
+	display:block;
+}
+
+.smart-paging-pager li.pager-first:hover {
+	background-color:#F9BB0E;
+}
+
+.smart-paging-pager li.pager-last:hover {
+	background-color:#934737;
+}
+
+.smart-paging-pager li.pager-next:hover {
+	background-color:#18789E;
+}
+
+.smart-paging-pager li.pager-previous:hover {
+	background-color:#E66B25;
+}
+
+
+.smart-paging-pager li.pager-first {
+	width:70px;
+	height:70px;
+	border-radius:50%;
+	line-height:70px;
+	background-color:#2DB0BA;
+}
+
+.smart-paging-pager li.pager-last {
+	width:70px;
+	height:70px;
+	border-radius:50%;
+	line-height:70px;
+	background-color:#2DB0BA;
+}
+
+.smart-paging-pager li.pager-previous {
+	width:70px;
+	height:70px;
+	border-radius:50%;
+	line-height:70px;
+	background-color:#75C8CE;
+}
+
+.smart-paging-pager li.pager-next {
+	width:70px;
+	height:70px;
+	border-radius:50%;
+	line-height:70px;
+	background-color:#75C8CE;
+}
+
+.smart-paging-pager select {
+	background-color:#97D6DB;
+	color:#fff;
+	margin-top:25px;
+	padding:5px;
+	border-radius: 5px;
+	border:1px solid #97D6DB;
+}
+
+.field-name-field-recommended-products {
+	margin-top:20px;
+}
+
+	
+
+
+
+.node-type-hair-style-video .field-item {
+	width:200px;
+	display:inline-block;
+	text-align:center;
+
+}
+
+.node-type-hair-style-video .commerce-product-field-commerce-price .field-item {
+	font-size:18px;
+}
+
+.node-type-hair-style-video .field-name-title-field {
+	display:none;
+
+}
+
+.node-type-hair-style-video .field-item .price_prefix {
+	display:none;
+}
+
+.field-name-field-recommended-products .field-label {
+	background-color:#413948;
+	color:#fff;
+	width:210px;
+	padding-left:5px;
+	margin-bottom:10px;
+}
+
+.front .pane-title {
+	background-image:url('/sites/all/themes/natural_barnet/images/Natural-Barnet-Black-Logo_s.png');
+	background-repeat:no-repeat;
+	background-position:right;
+	height:50px;
+	
+}
+
+.front .products-interested-block {
+	border:2px solid #7AA846;
+}
+
+.front .pane-views-feature-block {
+	border:2px solid #7AA846;
+}
+
+.front .pane-views-feature-block .pane-content {
+	padding:0 10px;
+}
+
+.front .pane-views-feature-block .pane-content img {
+	width:50%;
+}
+
+.front .pane-views-slider-block {
+	margin-top:20px;
+}
+
+.view-products-carousel {
+	margin-left:-30px;
+	margin-top:-40px;
+	height:100%
+}
+
+.view-products-carousel li {
+	border:none;
+}
+
+.pane-views-welcome-message-block {
+	
+}
+
+.view-welcome-message .field-name-body {
+	
+	font-size:1em;
+	padding: 10px;
+	
+}
+
+.pane-views-hair-info-categories-block .view-hair-info-categories {
+	border:none;
+}	
+
+/* End General tidying up */
+
+
+/*.front .articles-interested-block .pane-content {
+	
+	
+}
+
+.front .articles-interested-block {
+	padding-right:15px;
+	border-right:2px dashed #AFA58E;
+}*/
+
+
+.front .pane-title {
+	margin-left:7px;
+}
+
+.page-products .price_prefix {
+	display: none;
+}
+
+.node-type-hair-tutorial-video .group-right {
+	width: 30%;
+}
+
+.node-type-hair-tutorial-video .group-left {
+	width: 30%;
+}
+
+.page-taxonomy-term h2 {
+	font-size:1em;
+	text-align:center;
+}
+
+.node-type-hair-tutorial-video .field-name-title-field {
+	font-size:1em;
+} 
+
+.page-taxonomy-term .field-name-commerce-price,
+.page-taxonomy-term .commerce-add-to-cart,
+.page-taxonomy-term .field-name-field-images {
+	text-align:center;
+}
+
+#views_slideshow_cycle_main_slider-block {
+	margin-bottom:10px;
+}
+
+#views_slideshow_slide_counter_slider-block {
+	display:none;
+}
+
+.sagepaylogo {
+	float:right;
+}
+
+.sagepaylogo img {
+	border:1px solid #ADADAD;
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+}
+
+.node-type-hair-tutorial-video .commerce-product-field .price_prefix {
+	display:none;
+}
+
+.node-type-hair-tutorial-video .node-product-display {
+	float:left;
+}
+
+.node-type-hair-tutorial-video .field-name-title-field {
+	width:80%;
+}
+
+#comments {
+	margin-bottom:16px;
+}
+
+.comment-wrapper .pager {
+	display:none;
+}
+
+
+/***Hair tutorials***/
+
+.views-col-hair-tutorial {
+	float:left;	
+	width:25%;	
+}
+
+.hair-tutorial-category-col {
+	float:left;	
+	width:23%;
+	margin-right: 1%;	
+}
+
+.hair-care-responsive-grid-column {
+	float:left;
+	width:49%;
+	margin-right: 1%;
+}
+
+.hair-view-responsive-grid-column {
+	float:left;
+	width:49%;
+	margin-right: 1%;
+}
+
+.hair-knowledge-responsive-grid-column {
+	float:left;
+	width:49%;
+	margin-right: 1%;
+}
+
+.front-articles-interested-in-column {
+	float:left;
+	width:45%;
+	margin-right: 1%;
+}
+
+.front-videos-interested-in-column {
+	float:left;
+	width:45%;
+	margin-right: 1%;
+}
+
+.products-interested-in-column {
+	float:left;
+	width:45%;
+	margin-right: 1%;
+}
+
+.front .articles-interested-block {
+	width:98%;
+	float:left;
+}
+
+.front .videos-interested-in-block {
+	width:98%;
+	float:left;
+}
+
+.articles-interested-block {
+	width:49%;
+	float:left;
+}
+
+.products-interested-block {
+	width:49%;
+	float:left;
+}
+
+
+/***Banner for delivery price***/
+
+.banner-delivery-price {
+	color:#fff;
+	font-size:1.2em;
+	background-color:#E7814B;
+	text-align:center;
+	margin-top:-12px;
+	border:1px solid #E7814B;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+	width:100%;
+	
+}
+
+/***************************Responsive styling******************************/
+
+nice-menu-main-menu
+
+
+/***Front page bottom views***/
+
+/*@media screen and (max-width: 800px) {
+	.front .articles-interested-block {
+		width:345px;
+	}
+
+	.front .articles-interested-block img {
+		width: 160px;
+	}
+
+	.front .view-videos-you-may-be-interested-in {
+		width:340px;
+	}
+
+	.front .view-videos-you-may-be-interested-in img {
+		width:160px;
+	}
+
+	#block-views-exp-display-products-page {
+		margin:-140px 0 0 -10px;
+		
+	}	
+	
+}*/
+
+
+
+
+
+
+
+/***Hair info***/
+
+@media screen and (max-width:800px) {
+
+	.view-hair-info-categories img {
+		width:360px;
+	}
+}
+
+@media screen and (max-width:635px) {
+
+	.view-hair-info-categories img {
+		width:100%;
+	}
+
+	.page-hair-info .views-field-name .field-content a {
+		font-size:1.2em;
+	}
+}
+
+
+/***hair-info/hair-knowledge/[article]***/
+
+/*@media screen and (max-width:980px) {
+
+	.articles-interested-block {
+		width:49%;
+		margin-right:1%;
+	}
+
+	.articles-interested-block .block-title {
+		width:100%;
+	}
+
+	.articles-interested-block img {
+		width:100%;
+	}
+
+	.products-interested-block {
+		width:49%;
+	}
+
+	.products-interested-block .block-title {
+		width:100%;
+	}
+	.products-interested-block img {
+		width:100%;
+	}
+}
+*/
+
+
+
+@media screen and (max-width:740px) {
+
+	.articles-interested-block {
+		width:95%;
+		float:left;
+	}
+
+	.articles-interested-block .block-title {
+		width:98%;
+		font-size:1em;
+		
+	}
+
+	.articles-interested-block img {
+		width:100%;
+	}
+
+	.products-interested-block {
+		width:95%;
+		float:left;
+	}
+
+	.products-interested-block .block-title {
+		width:98%;
+		font-size:1em;
+	}
+	.products-interested-block img {
+		width:100%;
+	}
+}
+
+/***hair-care***/
+
+@media screen and (max-width:635px) {
+	.hair-care-responsive-grid-column {
+		width:80%;
+		margin-left:5%;
+	}
+}
+
+
+/***hair-view***/
+
+@media screen and (max-width:635px) {
+	.hair-view-responsive-grid-column {
+		width:80%;
+		margin-left:5%;
+	}
+}
+
+
+/***hair-knowledge***/
+
+@media screen and (max-width:635px) {
+	.hair-knowledge-responsive-grid-column {
+		width:80%;
+		margin-left:5%;
+	}
+}
+
+
+
+/***Vimeo video***/
+
+@media screen and (max-width:800px) {
+	.embedded-video iframe {
+		width:520px;
+	}
+
+	.node-type-hair-tutorial-video .field-type-text-with-summary {
+		margin-left:50px;
+	}
+	
+	.node-type-hair-tutorial-video .field-name-field-hair-style-categories {
+  		margin-left:50px;
+	}
+
+}
+
+@media screen and (max-width:690px) {
+	.node-type-hair-tutorial-video .group-left {
+		width:98%;
+		float:left;
+	}
+
+	.embedded-video iframe {
+		width:100%;
+	}
+
+
+	.node-type-hair-tutorial-video .group-right {
+		width:98%;
+		float:left;
+		margin-bottom:10px;
+		margin-left:-40px;
+	}
+}
+
+
+/***hair categories sidebar divs***/
+
+@media screen and (max-width:800px) {
+
+	.block-hair-care-categories-view-block .content {
+		margin-top:-15px;
+	}
+
+	#block-views-a651db467c8a74bbfdb04c5fdbf65fbc .content {
+		margin-top:-15px;
+	}
+
+	#block-views-ac0b85e3f70a83b39ec8ef6db8da8f25 .content {
+		margin-top:-15px;
+	}
+
+	.vocabulary-hair-style-category a {
+		float:left;
+		margin-right:10px;
+		background-color:#2698f2;
+		color:#fff;
+		margin-bottom:5px;
+		padding:0 2px;
+		border:1px solid #2698f2;
+	}
+
+	.vocabulary-hair-style-category a:hover {		
+		background-color:#fff;
+		color:#2698f2;
+		border:1px solid #2698f2;		
+	}
+
+	.vocabulary-hair-care-category a {
+		float:left;
+		margin-right:10px;
+		background-color:#2698f2;
+		color:#fff;
+		margin-bottom:5px;
+		padding:0 2px;
+		border:1px solid #2698f2;
+	}
+
+	.vocabulary-hair-care-category a:hover {		
+		background-color:#fff;
+		color:#2698f2;
+		border:1px solid #2698f2;		
+	}
+
+	.vocabulary-hairviews-interviewee a {
+		float:left;
+		margin-right:10px;
+		background-color:#2698f2;
+		color:#fff;
+		margin-bottom:5px;
+		padding:0 2px;
+		border:1px solid #2698f2;
+	}
+
+	.vocabulary-hairviews-interviewee a:hover {		
+		background-color:#fff;
+		color:#2698f2;
+		border:1px solid #2698f2;		
+	}	
+
+}
+
+/***Categories articles view***/
+
+@media screen and (max-width:800px) {
+
+	.page-taxonomy-term .field-name-field-hair-style-video {
+		width:170px;
+	}
+
+	.page-taxonomy-term .field-name-field-image-for-button {
+		width:170px;
+	}
+
+}
+
+
+/***Product page***/
+
+@media screen and (max-width:800px) {
+
+	#search-api-ranges-block-slider-view-form-field-productcommerce-priceamount-decimal {
+		margin-top:-20px;
+	}
+
+	#block-facetapi-tfvaqksorcpdrulxfxdnlqz40xh0nper {
+		width:45%;
+		float:left;
+	}
+
+	#block-facetapi-h24obdrb0wq0kprw1qaligb7tvlkp7aj {
+		width:45%;
+		float:left;
+	}
+
+}
+
+
+
+/***Header***/
+
+@media screen and (max-width:740px) {
+
+	#logo {
+		width:100px;
+		float:left;
+		margin-left:5px;
+	}
+
+	.site-slogan {
+		font-size:2.2em;
+		position:relative;
+		top:-85px;
+		margin-right:5px;		
+	}
+
+	#edit-search-api-views-fulltext-wrapper {
+		position:relative;
+		top:-75px;
+	}
+
+	#edit-submit-display-products {
+		position:relative;
+		top:-75px;
+	}
+
+	#zone-branding-wrapper {
+		max-height:120px;
+	}
+
+}
+
+
+@media screen and (max-width:325px) {
+
+	#logo {
+		width:100px;
+		float:left;
+		margin-left:5px;
+	}
+
+	.site-slogan {
+		font-size:2.2em;
+		position:relative;
+		margin-left:20px;
+				
+	}
+
+	#edit-search-api-views-fulltext-wrapper {
+		position:relative;
+		top:-75px;
+	}
+
+	#edit-submit-display-products {
+		position:relative;
+		top:-75px;
+	}
+
+	#zone-branding-wrapper {
+		max-height:120px;
+	}
+
+}
+
+
+/***Menu***/
+
+/**Handled by the responsive menus module set to 635px**/
+
+@media screen and (max-width:635px) {
+	#sidr-wrapper-0 {		
+		background:rgba(255,255,255,0.9);
+		position:relative;
+		top:30px;
+		border-radius:8px;
+		border:4px solid #000;
+		padding:10px;
+		float:left;		
+	}
+
+	#sidr-wrapper-0 a {		
+		color:#000;
+		font-size:
+			
+	}
+
+}
+
+/***Hair Tutorials***/
+
+@media screen and (max-width:635px) {
+	.views-col-hair-tutorial {
+		width:33%;
+	}
+}
+
+@media screen and (max-width:480px) {
+	.views-col-hair-tutorial {
+		width:50%;
+	}
+}
+
+
+
+/***Hair Tutorial categories view***/
+
+@media screen and (max-width:800px) {
+	.hair-tutorial-category-col {
+		width:30%;
+	}
+}
+
+@media screen and (max-width:575px) {
+	.hair-tutorial-category-col {
+		width:49%;
+	}
+}
+
+@media screen and (max-width:365px) {
+	.hair-tutorial-category-col {
+		width:51%;
+		margin-left:10%;
+		
+	}
+}
+
+/***Banner for delivery price***/
+
+@media screen and (max-width:450px) {
+
+	.banner-delivery-price {
+	font-size:1em;
+	}
+}
+
+
+
+@media screen and (max-width:635px) {
+	#flexslider-1 {
+		display:none;
+	}	
+	
+}
+
+
+
+
+
